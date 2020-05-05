@@ -31,3 +31,17 @@ nav li {
 .print {
   float: right;
 }
+
+aside {
+  padding-top: 30px;
+  padding-bottom: 60px
+}
+
+aside img {
+  float: left;
+}
+
+aside h3 {
+  padding-left: 100px;
+  font-size: 1.6em;
+}
